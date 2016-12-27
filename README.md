@@ -1,3 +1,0 @@
-# colorapp
-
-version 2
